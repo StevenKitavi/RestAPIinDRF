@@ -15,6 +15,5 @@ class TodoSerializer(serializers.HyperlinkedModelSerializer):
                 'view_name': 'todos:todo-detail',
             }
         }
-
-
         
+
